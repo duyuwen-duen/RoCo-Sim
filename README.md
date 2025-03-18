@@ -2,15 +2,15 @@
 
 RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation
 
+[paper](https://arxiv.org/pdf/2503.10410)
+
 ## Pipeline
 
    **3D-to-2D mapping and render foreground objects onto real 2D backgrounds**
 
 - Camera Extrinsic Optimization ensures accurate 3D to 2D projection for roadside cameras
-
 - Multi-View Occlusion-Aware Sampler (MOAS) determines the placement of diverse digital assets
-
-- DepthSAM models foreground-background relationships 
+- DepthSAM models foreground-background relationships
 - Scalable Post-Processing Toolkit generates more realistic and enriched scenes through style transfer and other enhancements.
 
 ![image-20250313104404046](img/image-20250313104404046.png)
@@ -49,9 +49,8 @@ DepthSAM ensures that rendering adheres to front-to-back relationships and corre
 
 ![image-20250313112852229](img/image-20250313112852229.png)
 
-- The performance improvement for perception becomes more significant as: 
+- The performance improvement for perception becomes more significant as:
   - The amount of simulation data increase
   - The number of simulated vehicles per image increase
 
 ![image-20250313112942344](img/image-20250313112942344.png)
-
