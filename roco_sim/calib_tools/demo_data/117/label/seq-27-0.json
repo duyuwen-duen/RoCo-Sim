@@ -1,0 +1,268 @@
+[
+    {
+        "type": "truck0",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 0,
+        "3d_location": {
+            "x": 2.8018967507588655,
+            "y": -14.266780173935688,
+            "z": -4.009415771950047
+        },
+        "3d_dimensions": {
+            "w": 3.3208965952138767,
+            "h": 4.026082443624163,
+            "l": 9.264368357811996
+        },
+        "rotation": -1.6156280502943372
+    },
+    {
+        "type": "car0",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 1,
+        "3d_location": {
+            "x": -1.7638469999999995,
+            "y": -37.723217,
+            "z": -4.475005
+        },
+        "3d_dimensions": {
+            "w": 2.099994,
+            "h": 1.449999,
+            "l": 4.499996
+        },
+        "rotation": -1.6331339999999999
+    },
+    {
+        "type": "truck1",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 2,
+        "3d_location": {
+            "x": 17.568501199897526,
+            "y": 102.0626600786832,
+            "z": -7.069927077224002
+        },
+        "3d_dimensions": {
+            "w": 2.899635263154271,
+            "h": 3.0268749337695966,
+            "l": 7.403442655653077
+        },
+        "rotation": -1.514349268662227
+    },
+    {
+        "type": "tricycle0",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 3,
+        "3d_location": {
+            "x": 0.19262814114864565,
+            "y": 20.577962097291277,
+            "z": -5.883079669833801
+        },
+        "3d_dimensions": {
+            "w": 1.6407850387549188,
+            "h": 1.8129465918335015,
+            "l": 3.463699064947342
+        },
+        "rotation": 0.6316571971602151
+    },
+    {
+        "type": "car1",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 4,
+        "3d_location": {
+            "x": 16.468763257163634,
+            "y": 4.236645991402818,
+            "z": -6.04024143069389
+        },
+        "3d_dimensions": {
+            "w": 2.1012615757885444,
+            "h": 1.5787307790321323,
+            "l": 4.503946697899873
+        },
+        "rotation": 1.523408039354287
+    },
+    {
+        "type": "car2",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 5,
+        "3d_location": {
+            "x": 20.464878000000002,
+            "y": -64.59876,
+            "z": -4.455004
+        },
+        "3d_dimensions": {
+            "w": 2.099999,
+            "h": 1.449999,
+            "l": 4.5
+        },
+        "rotation": 0.7435029999999998
+    },
+    {
+        "type": "car3",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 6,
+        "3d_location": {
+            "x": 16.444786000000008,
+            "y": -74.80617,
+            "z": -4.435002
+        },
+        "3d_dimensions": {
+            "w": 2.242319,
+            "h": 1.449997,
+            "l": 4.499996
+        },
+        "rotation": 1.5187399999999998
+    },
+    {
+        "type": "car4",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 7,
+        "3d_location": {
+            "x": 47.41916700000001,
+            "y": -57.729626,
+            "z": -4.695005
+        },
+        "3d_dimensions": {
+            "w": 2.099999,
+            "h": 1.449999,
+            "l": 4.499999
+        },
+        "rotation": 0.16866099999999898
+    },
+    {
+        "type": "car5",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 8,
+        "3d_location": {
+            "x": 40.87055000000001,
+            "y": -58.846344,
+            "z": -4.507975
+        },
+        "3d_dimensions": {
+            "w": 2.443357,
+            "h": 1.708894,
+            "l": 4.499996
+        },
+        "rotation": 0.1195710000000006
+    },
+    {
+        "type": "car6",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 9,
+        "3d_location": {
+            "x": 34.742943000000004,
+            "y": -59.201572,
+            "z": -4.575002
+        },
+        "3d_dimensions": {
+            "w": 2.1,
+            "h": 1.449999,
+            "l": 4.499999
+        },
+        "rotation": 0.15131499999999928
+    },
+    {
+        "type": "truck2",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 10,
+        "3d_location": {
+            "x": 45.45592500000001,
+            "y": -51.33006,
+            "z": -4.133112
+        },
+        "3d_dimensions": {
+            "w": 2.2,
+            "h": 2.146877,
+            "l": 5.999995
+        },
+        "rotation": -3.116252000000002
+    },
+    {
+        "type": "car7",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 11,
+        "3d_location": {
+            "x": 58.35580400000001,
+            "y": -49.996387,
+            "z": -4.555003
+        },
+        "3d_dimensions": {
+            "w": 2.1,
+            "h": 1.449999,
+            "l": 4.499999
+        },
+        "rotation": -3.038508000000002
+    },
+    {
+        "type": "truck3",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 12,
+        "3d_location": {
+            "x": 32.638794000000004,
+            "y": -61.808952,
+            "z": -3.6854189999999996
+        },
+        "3d_dimensions": {
+            "w": 2.199999,
+            "h": 2.970809,
+            "l": 5.999999
+        },
+        "rotation": 0.18384300000000042
+    },
+    {
+        "type": "truck4",
+        "occluded_state": 0,
+        "truncated_state": 0,
+        "crowding": 0,
+        "ignore": 0,
+        "track_id": 13,
+        "3d_location": {
+            "x": 39.11957600000001,
+            "y": -51.75904,
+            "z": -4.136947
+        },
+        "3d_dimensions": {
+            "w": 1.999999,
+            "h": 2.113877,
+            "l": 5.547752
+        },
+        "rotation": -3.0890839999999993
+    }
+]
