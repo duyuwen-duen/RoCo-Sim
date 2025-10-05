@@ -44,6 +44,7 @@
 
 ```bash
 conda env create -f environment.yml
+conda activate rocosim
 ```
 
 **2. Install Python Dependencies**
